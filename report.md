@@ -1,32 +1,31 @@
 # 聚合接口生成报告
 
-生成时间：2026-11-22 22:52:11（北京时间）
+生成时间：2026-11-22 23:03:18（北京时间）
 
 ## 直播接口 hub/live.m3u
 
 - 央视卫视：23 个频道
-- 卫视频道：209 个频道
+- 卫视频道：208 个频道
 - 港澳台：81 个频道
 - 金鹰动画：29 个频道
 - 候选源总数：2324
 - 探测确认存活：244
 - 探测失败原因分布：
-  - URLError：449
+  - URLError：450
   - ct：281
-  - http-403：68
+  - http-403：70
   - http-404：40
   - http-500：26
-  - TimeoutError：17
+  - TimeoutError：19
   - m3u8-body：14
-  - http-429：12
   - http-502：10
+  - http-429：9
   - unknown-ct：4
   - http-523：4
   - http-304：3
-  - RemoteDisconnected：2
   - html-page：2
   - http-302：1
-  - ConnectionResetError：1
+  - RemoteDisconnected：1
   - http-418：1
   - http-504：1
   - http-409：1
