@@ -16,16 +16,27 @@ https://raw.githubusercontent.com/TAO-2026-beep/iptv-hub/main/tvbox.json
 
 填入电视软件（TVBox / 影视仓 / 央视影音 / Kodi 等）的「直播源」或「配置地址」即可。
 
+[![IPTV 订阅](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TAO-2026-beep/iptv-hub/main/shield.json)](https://github.com/TAO-2026-beep/iptv-hub)
+
+<!-- STATUS_START -->
+- 最近更新：2026-11-24 21:35:42（北京时间）
+- 配置源健康：4/4 可用
+- 直播：344 个频道，2323 个候选源，探测存活 232
+  - 央视：23 个频道
+  - 卫视：211 个频道
+  - 港台：81 个频道
+  - 金鹰动画：29 个频道
+- 点播：sites 140 / lives 7 / parses 41
+<!-- STATUS_END -->
+
 ## 直播分组
 
-| 分组 | 内容 |
-|------|------|
-| 央视卫视 | CCTV-1～CCTV-17、CCTV-4K/8K、CGTN 等央视系频道 |
-| 卫视频道 | 各省级卫视 + 地市综合/公共频道 |
-| 港澳台 | TVB、凤凰、翡翠、无线新闻、台湾/香港各台 |
-| 金鹰动画 | 金鹰卡通为核心，含国内动画/少儿台 |
+- 央视卫视：CCTV-1～CCTV-17、CCTV-4K/8K、CGTN 等央视系频道
+- 卫视频道：各省级卫视 + 地市综合/公共频道
+- 港澳台：TVB、凤凰、翡翠、无线新闻、中国香港/中国台湾各台
+- 金鹰动画：金鹰卡通为核心，含国内动画/少儿台
 
-同一频道通常带多个备源（`台名`、`台名 (2)`、`台名 (3)`），首个为主源。
+同一频道的多条线路使用完全相同的频道名，电视端会自动合并并在首条失败时切换下一条，无需手动选源。
 
 ## 更新机制
 
