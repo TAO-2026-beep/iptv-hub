@@ -1,0 +1,51 @@
+{
+  "updated_at": "2026-11-24 21:35:42",
+  "repo": "TAO-2026-beep/iptv-hub",
+  "overall": {
+    "ok": true,
+    "sources_ok": 4,
+    "sources_total": 4,
+    "color": "brightgreen"
+  },
+  "live": {
+    "channels": 344,
+    "groups": {
+      "央视": 23,
+      "卫视": 211,
+      "港台": 81,
+      "金鹰动画": 29
+    },
+    "candidates": 2323,
+    "probed": true,
+    "alive": 232,
+    "probe_reasons": {
+      "URLError": 460,
+      "ct": 268,
+      "http-404": 40,
+      "unknown-ct": 4,
+      "m3u8-body": 14,
+      "http-429": 5,
+      "http-500": 26,
+      "TimeoutError": 20,
+      "http-403": 75,
+      "http-502": 10,
+      "http-302": 1,
+      "RemoteDisconnected": 1,
+      "http-523": 3,
+      "http-304": 3,
+      "http-418": 1,
+      "http-504": 1,
+      "html-page": 2,
+      "http-409": 1
+    }
+  },
+  "tvbox": {
+    "sites": 140,
+    "lives": 7,
+    "parses": 41
+  },
+  "fetch": {
+    "last_run": "2026-11-23 20:53:18",
+    "errors": []
+  }
+}
