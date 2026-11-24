@@ -2,25 +2,25 @@
 #EXTINF:-1 tvg-id="cn:CCTV4" tvg-name="CCTV4" group-title="央视卫视",CCTV4
 http://107.150.60.122/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="cn:CCTV4" tvg-name="CCTV4" group-title="央视卫视",CCTV4
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="cn:CCTV4" tvg-name="CCTV4" group-title="央视卫视",CCTV4
 http://173.208.212.130:8181/1080p/cctv4.m3u8
+#EXTINF:-1 tvg-id="cn:CCTV4" tvg-name="CCTV4" group-title="央视卫视",CCTV4
+http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-name="CCTV+ 1 赛事" group-title="央视卫视",CCTV+ 1 赛事
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-name="CCTV+ 2 赛事" group-title="央视卫视",CCTV+ 2 赛事
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1 综合" group-title="央视卫视",CCTV-1 综合
+http://204.12.221.218:8181/3m1080p/cctv1.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1 综合" group-title="央视卫视",CCTV-1 综合
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1 综合" group-title="央视卫视",CCTV-1 综合
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1 综合" group-title="央视卫视",CCTV-1 综合
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV-2 财经" group-title="央视卫视",CCTV-2 财经
+http://192.151.150.154/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV-2 财经" group-title="央视卫视",CCTV-2 财经
 http://107.150.60.122/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV-2 财经" group-title="央视卫视",CCTV-2 财经
 http://198.204.228.26/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV-2 财经" group-title="央视卫视",CCTV-2 财经
-http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV-3 综艺" group-title="央视卫视",CCTV-3 综艺
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV-3 综艺" group-title="央视卫视",CCTV-3 综艺
@@ -36,27 +36,27 @@ http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/32212
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+ 体育赛事" group-title="央视卫视",CCTV-5+ 体育赛事
 http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+ 体育赛事" group-title="央视卫视",CCTV-5+ 体育赛事
-http://173.208.212.130:8181/720p/cctv5.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+ 体育赛事" group-title="央视卫视",CCTV-5+ 体育赛事
 https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+ 体育赛事" group-title="央视卫视",CCTV-5+ 体育赛事
+https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6 电影" group-title="央视卫视",CCTV-6 电影
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6 电影" group-title="央视卫视",CCTV-6 电影
 http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6 电影" group-title="央视卫视",CCTV-6 电影
-https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6 电影" group-title="央视卫视",CCTV-6 电影
-https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
-#EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV-7 国防军事" group-title="央视卫视",CCTV-7 国防军事
-http://74.91.26.218:82/live/cctv7hd.m3u8
+http://198.204.228.26/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV-7 国防军事" group-title="央视卫视",CCTV-7 国防军事
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 #EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV-7 国防军事" group-title="央视卫视",CCTV-7 国防军事
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV-7 国防军事" group-title="央视卫视",CCTV-7 国防军事
 https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8 电视剧" group-title="央视卫视",CCTV-8 电视剧
+http://69.30.245.50/live/cctv8.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8 电视剧" group-title="央视卫视",CCTV-8 电视剧
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8 电视剧" group-title="央视卫视",CCTV-8 电视剧
 https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8 电视剧" group-title="央视卫视",CCTV-8 电视剧
-http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 #EXTINF:-1 tvg-id="CCTV8K.cn" tvg-name="CCTV-8K 超高清" group-title="央视卫视",CCTV-8K 超高清
 http://192.151.150.154/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CCTV8K.cn" tvg-name="CCTV-8K 超高清" group-title="央视卫视",CCTV-8K 超高清
@@ -64,11 +64,11 @@ http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 #EXTINF:-1 tvg-id="CCTV8K.cn" tvg-name="CCTV-8K 超高清" group-title="央视卫视",CCTV-8K 超高清
 http://198.204.240.250:82/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV-9 纪录" group-title="央视卫视",CCTV-9 纪录
-http://107.150.60.122/live/cctv9hd.m3u8
+http://74.91.26.218:82/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV-9 纪录" group-title="央视卫视",CCTV-9 纪录
 http://192.151.150.154/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV-9 纪录" group-title="央视卫视",CCTV-9 纪录
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+http://107.150.60.122/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV-10 科教" group-title="央视卫视",CCTV-10 科教
 http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV-10 科教" group-title="央视卫视",CCTV-10 科教
@@ -90,19 +90,19 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV-13 新闻" group-title="央视卫视",CCTV-13 新闻
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV-13 新闻" group-title="央视卫视",CCTV-13 新闻
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV-13 新闻" group-title="央视卫视",CCTV-13 新闻
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV-13 新闻" group-title="央视卫视",CCTV-13 新闻
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV-14 少儿" group-title="央视卫视",CCTV-14 少儿
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV-14 少儿" group-title="央视卫视",CCTV-14 少儿
+http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 #EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV-14 少儿" group-title="央视卫视",CCTV-14 少儿
 http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV-14 少儿" group-title="央视卫视",CCTV-14 少儿
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV-14 少儿" group-title="央视卫视",CCTV-14 少儿
-https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV-15 音乐" group-title="央视卫视",CCTV-15 音乐
-http://74.91.26.218:82/live/cctv15hd.m3u8
+http://198.204.228.26/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV-15 音乐" group-title="央视卫视",CCTV-15 音乐
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV-15 音乐" group-title="央视卫视",CCTV-15 音乐
 http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV16.cn" tvg-name="CCTV-16 奥林匹克" group-title="央视卫视",CCTV-16 奥林匹克
@@ -114,9 +114,9 @@ https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-name="CCTV-17 农业农村" group-title="央视卫视",CCTV-17 农业农村
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-name="CCTV-17 农业农村" group-title="央视卫视",CCTV-17 农业农村
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-#EXTINF:-1 tvg-id="CCTV17.cn" tvg-name="CCTV-17 农业农村" group-title="央视卫视",CCTV-17 农业农村
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-name="CCTV-17 农业农村" group-title="央视卫视",CCTV-17 农业农村
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 #EXTINF:-1 tvg-id="cn:CGTN" tvg-name="CGTN" group-title="央视卫视",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="cn:CGTN" tvg-name="CGTN" group-title="央视卫视",CGTN
@@ -140,9 +140,9 @@ http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="cn:万源新闻综合" tvg-name="万源新闻综合" group-title="卫视频道",万源新闻综合
 http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
 #EXTINF:-1 tvg-id="cn:三沙卫视" tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
-http://107.150.60.122/live/ssws.m3u8
-#EXTINF:-1 tvg-id="cn:三沙卫视" tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
 http://198.204.228.26/live/ssws.m3u8
+#EXTINF:-1 tvg-id="cn:三沙卫视" tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
+http://107.150.60.122/live/ssws.m3u8
 #EXTINF:-1 tvg-id="cn:三沙卫视" tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
 #EXTINF:-1 tvg-id="cn:上海卫视" tvg-name="上海卫视" group-title="卫视频道",上海卫视
@@ -186,23 +186,23 @@ http://t.061899.xyz/tl/tl.php?id=ynws
 #EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="云南卫视" group-title="卫视频道",云南卫视
 http://112.27.235.94:8000/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="cn:云和新闻综合" tvg-name="云和新闻综合" group-title="卫视频道",云和新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-id="cn:云和新闻综合" tvg-name="云和新闻综合" group-title="卫视频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-#EXTINF:-1 tvg-id="cn:人间卫视" tvg-name="人间卫视" group-title="卫视频道",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-id="cn:云和新闻综合" tvg-name="云和新闻综合" group-title="卫视频道",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="cn:人间卫视" tvg-name="人间卫视" group-title="卫视频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 tvg-id="cn:人间卫视" tvg-name="人间卫视" group-title="卫视频道",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 tvg-id="QTV4.cn" tvg-name="休闲资讯频道" group-title="卫视频道",休闲资讯频道
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 tvg-id="QTV4.cn" tvg-name="休闲资讯频道" group-title="卫视频道",休闲资讯频道
 http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="cn:余姚新闻综合" tvg-name="余姚新闻综合" group-title="卫视频道",余姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="cn:余姚新闻综合" tvg-name="余姚新闻综合" group-title="卫视频道",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 #EXTINF:-1 tvg-id="cn:余姚新闻综合" tvg-name="余姚新闻综合" group-title="卫视频道",余姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-id="cn:余杭综合频道" tvg-name="余杭综合频道" group-title="卫视频道",余杭综合频道
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="cn:全纪实" tvg-name="全纪实" group-title="卫视频道",全纪实
@@ -270,9 +270,9 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227214/index.m3u
 #EXTINF:-1 tvg-id="cn:南方卫视" tvg-name="南方卫视" group-title="卫视频道",南方卫视
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="cn:厦门卫视" tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
-http://107.150.60.122/live/xmws.m3u8
-#EXTINF:-1 tvg-id="cn:厦门卫视" tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
 http://192.151.150.154/live/xmws.m3u8
+#EXTINF:-1 tvg-id="cn:厦门卫视" tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
+http://107.150.60.122/live/xmws.m3u8
 #EXTINF:-1 tvg-id="cn:厦门卫视" tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
 http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
 #EXTINF:-1 tvg-id="cn:叙州新闻综合" tvg-name="叙州新闻综合" group-title="卫视频道",叙州新闻综合
@@ -330,9 +330,9 @@ https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1
 #EXTINF:-1 tvg-id="cn:夹江新闻综合" tvg-name="夹江新闻综合" group-title="卫视频道",夹江新闻综合
 http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-id="cn:宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
-http://120.76.248.139/live/bfgd/4200000118.m3u8
-#EXTINF:-1 tvg-id="cn:宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
 https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="cn:宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
+http://120.76.248.139/live/bfgd/4200000118.m3u8
 #EXTINF:-1 tvg-id="cn:宁夏卫视" tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
 http://t.061899.xyz/tl/tl.php?id=nxws
 #EXTINF:-1 tvg-id="cn:宁德新闻综合" tvg-name="宁德新闻综合" group-title="卫视频道",宁德新闻综合
@@ -372,9 +372,9 @@ http://112.27.235.94:8000/hls/45/index.m3u8
 #EXTINF:-1 tvg-id="cn:山西卫视" tvg-name="山西卫视" group-title="卫视频道",山西卫视
 https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 #EXTINF:-1 tvg-id="cn:嵊州新闻综合" tvg-name="嵊州新闻综合" group-title="卫视频道",嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-id="cn:嵊州新闻综合" tvg-name="嵊州新闻综合" group-title="卫视频道",嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 tvg-id="cn:嵊州新闻综合" tvg-name="嵊州新闻综合" group-title="卫视频道",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="cn:平湖新闻综合" tvg-name="平湖新闻综合" group-title="卫视频道",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="cn:平遥新闻综合" tvg-name="平遥新闻综合" group-title="卫视频道",平遥新闻综合
@@ -444,9 +444,9 @@ https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc995785364
 #EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="新疆卫视3" group-title="卫视频道",新疆卫视3
 http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="新疆卫视3" group-title="卫视频道",新疆卫视3
-http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
-#EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="新疆卫视3" group-title="卫视频道",新疆卫视3
 http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="新疆卫视3" group-title="卫视频道",新疆卫视3
+http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV8.cn" tvg-name="新疆卫视8" group-title="卫视频道",新疆卫视8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="cn:新闻综合" tvg-name="新闻综合" group-title="卫视频道",新闻综合
@@ -514,9 +514,9 @@ http://t.061899.xyz/tl/tl.php?id=jxws
 #EXTINF:-1 tvg-id="JiangxiTV.cn" tvg-name="江西卫视" group-title="卫视频道",江西卫视
 http://112.27.235.94:8000/hls/44/index.m3u8
 #EXTINF:-1 tvg-id="cn:汶川新闻综合" tvg-name="汶川新闻综合" group-title="卫视频道",汶川新闻综合
-http://live.iwcmt.cn:90/live/zhxw.m3u8
-#EXTINF:-1 tvg-id="cn:汶川新闻综合" tvg-name="汶川新闻综合" group-title="卫视频道",汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 tvg-id="cn:汶川新闻综合" tvg-name="汶川新闻综合" group-title="卫视频道",汶川新闻综合
+http://live.iwcmt.cn:90/live/zhxw.m3u8
 #EXTINF:-1 tvg-id="cn:沭阳综合频道" tvg-name="沭阳综合频道" group-title="卫视频道",沭阳综合频道
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
 #EXTINF:-1 tvg-id="cn:河北卫视" tvg-name="河北卫视" group-title="卫视频道",河北卫视
@@ -688,9 +688,9 @@ http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zs
 #EXTINF:-1 tvg-id="cn:营山电视台" tvg-name="营山电视台" group-title="卫视频道",营山电视台
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 #EXTINF:-1 tvg-id="cn:萧山新闻综合" tvg-name="萧山新闻综合" group-title="卫视频道",萧山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-id="cn:萧山新闻综合" tvg-name="萧山新闻综合" group-title="卫视频道",萧山新闻综合
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-id="cn:萧山新闻综合" tvg-name="萧山新闻综合" group-title="卫视频道",萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="cn:蒙语卫视" tvg-name="蒙语卫视" group-title="卫视频道",蒙语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 #EXTINF:-1 tvg-id="cn:衢江新闻综合" tvg-name="衢江新闻综合" group-title="卫视频道",衢江新闻综合
@@ -712,9 +712,9 @@ http://home.wwang.pw:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="XizangTVChinese.cn" tvg-name="西藏卫视中文" group-title="卫视频道",西藏卫视中文
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 tvg-id="XizangTVTibetan.cn" tvg-name="西藏卫视藏语" group-title="卫视频道",西藏卫视藏语
-http://php.jdshipin.com:8880/xztv.php?id=zy
-#EXTINF:-1 tvg-id="XizangTVTibetan.cn" tvg-name="西藏卫视藏语" group-title="卫视频道",西藏卫视藏语
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+#EXTINF:-1 tvg-id="XizangTVTibetan.cn" tvg-name="西藏卫视藏语" group-title="卫视频道",西藏卫视藏语
+http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 tvg-id="cn:诸暨新闻综合" tvg-name="诸暨新闻综合" group-title="卫视频道",诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="cn:诸暨新闻综合" tvg-name="诸暨新闻综合" group-title="卫视频道",诸暨新闻综合
@@ -834,9 +834,9 @@ http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&
 #EXTINF:-1 tvg-id="cn:TVB Jade" tvg-name="TVB Jade" group-title="港澳台",TVB Jade
 http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
 #EXTINF:-1 tvg-id="cn:TVB Plus" tvg-name="TVB Plus" group-title="港澳台",TVB Plus
-http://r.jdshipin.com/ndGgS
-#EXTINF:-1 tvg-id="cn:TVB Plus" tvg-name="TVB Plus" group-title="港澳台",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-id="cn:TVB Plus" tvg-name="TVB Plus" group-title="港澳台",TVB Plus
+http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="cn:TVB Plus" tvg-name="TVB Plus" group-title="港澳台",TVB Plus
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-id="cn:TVB Xing He" tvg-name="TVB Xing He" group-title="港澳台",TVB Xing He
@@ -872,15 +872,17 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-id="cn:TVB无线星河" tvg-name="TVB无线星河" group-title="港澳台",TVB无线星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 tvg-id="cn:TVB星河" tvg-name="TVB星河" group-title="港澳台",TVB星河
+http://r.jdshipin.com/Voac4
+#EXTINF:-1 tvg-id="cn:TVB星河" tvg-name="TVB星河" group-title="港澳台",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-id="cn:TVB星河" tvg-name="TVB星河" group-title="港澳台",TVB星河
 http://r.jdshipin.com/sXuuD
 #EXTINF:-1 tvg-id="cn:TVB生活台" tvg-name="TVB生活台" group-title="港澳台",TVB生活台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 #EXTINF:-1 tvg-id="Jade.hk" tvg-name="TVB翡翠台" group-title="港澳台",TVB翡翠台
-http://r.jdshipin.com/thuYX
-#EXTINF:-1 tvg-id="Jade.hk" tvg-name="TVB翡翠台" group-title="港澳台",TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="Jade.hk" tvg-name="TVB翡翠台" group-title="港澳台",TVB翡翠台
+http://r.jdshipin.com/thuYX
 #EXTINF:-1 tvg-id="Jade.hk" tvg-name="TVB翡翠台" group-title="港澳台",TVB翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 tvg-id="cn:TVB翡翠台 1080P" tvg-name="TVB翡翠台 4K" group-title="港澳台",TVB翡翠台 4K

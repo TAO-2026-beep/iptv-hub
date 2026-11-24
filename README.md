@@ -19,11 +19,11 @@ https://raw.githubusercontent.com/TAO-2026-beep/iptv-hub/main/tvbox.json
 [![IPTV 订阅](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TAO-2026-beep/iptv-hub/main/shield.json)](https://github.com/TAO-2026-beep/iptv-hub)
 
 <!-- STATUS_START -->
-- 最近更新：2026-11-24 21:35:42（北京时间）
+- 最近更新：2026-11-24 22:11:04（北京时间）
 - 配置源健康：4/4 可用
-- 直播：344 个频道，2323 个候选源，探测存活 232
+- 直播：343 个频道，2322 个候选源，探测存活 245
   - 央视：23 个频道
-  - 卫视：211 个频道
+  - 卫视：210 个频道
   - 港台：81 个频道
   - 金鹰动画：29 个频道
 - 点播：sites 140 / lives 7 / parses 41
